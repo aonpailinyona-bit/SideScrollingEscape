@@ -1,0 +1,1887 @@
+fileFormatVersion: 2
+guid: a755d98aa0e4f7841a375a74ed43139f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7930412626370165320
+    second: Tiles-GrimRock-Decor-part2-and-Animations_0
+  - first:
+      213: -9018080506114305363
+    second: Tiles-GrimRock-Decor-part2-and-Animations_1
+  - first:
+      213: -3169708252266484662
+    second: Tiles-GrimRock-Decor-part2-and-Animations_2
+  - first:
+      213: 7414905456093091492
+    second: Tiles-GrimRock-Decor-part2-and-Animations_3
+  - first:
+      213: -888819605694503864
+    second: Tiles-GrimRock-Decor-part2-and-Animations_4
+  - first:
+      213: -8210678188913906231
+    second: Tiles-GrimRock-Decor-part2-and-Animations_5
+  - first:
+      213: 7022946474512227963
+    second: Tiles-GrimRock-Decor-part2-and-Animations_6
+  - first:
+      213: -4103926863689920818
+    second: Tiles-GrimRock-Decor-part2-and-Animations_7
+  - first:
+      213: 2978336177377358092
+    second: Tiles-GrimRock-Decor-part2-and-Animations_8
+  - first:
+      213: 4651793633991147188
+    second: Tiles-GrimRock-Decor-part2-and-Animations_9
+  - first:
+      213: -4719905024984715000
+    second: Tiles-GrimRock-Decor-part2-and-Animations_10
+  - first:
+      213: -4948995901669156232
+    second: Tiles-GrimRock-Decor-part2-and-Animations_11
+  - first:
+      213: 3378888266160825005
+    second: Tiles-GrimRock-Decor-part2-and-Animations_12
+  - first:
+      213: -7104526690064447964
+    second: Tiles-GrimRock-Decor-part2-and-Animations_13
+  - first:
+      213: -7536180355624321768
+    second: Tiles-GrimRock-Decor-part2-and-Animations_14
+  - first:
+      213: 1332598214459002511
+    second: Tiles-GrimRock-Decor-part2-and-Animations_15
+  - first:
+      213: -6074358753984184323
+    second: Tiles-GrimRock-Decor-part2-and-Animations_16
+  - first:
+      213: 7173507520632176144
+    second: Tiles-GrimRock-Decor-part2-and-Animations_17
+  - first:
+      213: -2511376933919781055
+    second: Tiles-GrimRock-Decor-part2-and-Animations_18
+  - first:
+      213: -6409701123640966714
+    second: Tiles-GrimRock-Decor-part2-and-Animations_19
+  - first:
+      213: 5833049782095736139
+    second: Tiles-GrimRock-Decor-part2-and-Animations_20
+  - first:
+      213: 6904961740058706170
+    second: Tiles-GrimRock-Decor-part2-and-Animations_21
+  - first:
+      213: -2838362738282834136
+    second: Tiles-GrimRock-Decor-part2-and-Animations_22
+  - first:
+      213: -1234387975285723763
+    second: Tiles-GrimRock-Decor-part2-and-Animations_23
+  - first:
+      213: -7644912957361224633
+    second: Tiles-GrimRock-Decor-part2-and-Animations_24
+  - first:
+      213: -4500403411132638508
+    second: Tiles-GrimRock-Decor-part2-and-Animations_25
+  - first:
+      213: -2286532556883446355
+    second: Tiles-GrimRock-Decor-part2-and-Animations_26
+  - first:
+      213: 9111296322542096932
+    second: Tiles-GrimRock-Decor-part2-and-Animations_27
+  - first:
+      213: -7868579069947053710
+    second: Tiles-GrimRock-Decor-part2-and-Animations_28
+  - first:
+      213: -7517229357619934944
+    second: Tiles-GrimRock-Decor-part2-and-Animations_29
+  - first:
+      213: -300649161763248346
+    second: Tiles-GrimRock-Decor-part2-and-Animations_30
+  - first:
+      213: 1336869202815204919
+    second: Tiles-GrimRock-Decor-part2-and-Animations_31
+  - first:
+      213: -5904294755007782632
+    second: Tiles-GrimRock-Decor-part2-and-Animations_32
+  - first:
+      213: 7782047312940910515
+    second: Tiles-GrimRock-Decor-part2-and-Animations_33
+  - first:
+      213: 9072858142385560321
+    second: Tiles-GrimRock-Decor-part2-and-Animations_34
+  - first:
+      213: -2501176108090017932
+    second: Tiles-GrimRock-Decor-part2-and-Animations_35
+  - first:
+      213: -9035026144870154156
+    second: Tiles-GrimRock-Decor-part2-and-Animations_36
+  - first:
+      213: 714797406353374549
+    second: Tiles-GrimRock-Decor-part2-and-Animations_37
+  - first:
+      213: -775602272375872709
+    second: Tiles-GrimRock-Decor-part2-and-Animations_38
+  - first:
+      213: 8932539506166579155
+    second: Tiles-GrimRock-Decor-part2-and-Animations_39
+  - first:
+      213: -682339929037936663
+    second: Tiles-GrimRock-Decor-part2-and-Animations_40
+  - first:
+      213: 4255272284848044558
+    second: Tiles-GrimRock-Decor-part2-and-Animations_41
+  - first:
+      213: -49313956305093665
+    second: Tiles-GrimRock-Decor-part2-and-Animations_42
+  - first:
+      213: 3887587222829371497
+    second: Tiles-GrimRock-Decor-part2-and-Animations_43
+  - first:
+      213: -8911212485892036093
+    second: Tiles-GrimRock-Decor-part2-and-Animations_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b50fe2cbb381f190800000000000000
+      internalID: -7930412626370165320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da29e2d3f8759d280800000000000000
+      internalID: -9018080506114305363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c280e632fe204d0800000000000000
+      internalID: -3169708252266484662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6d889f93907e660800000000000000
+      internalID: 7414905456093091492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8442d2d17474aa3f0800000000000000
+      internalID: -888819605694503864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd2db070bfcd0e80800000000000000
+      internalID: -8210678188913906231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e12e10c94867160800000000000000
+      internalID: 7022946474512227963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece4491d24ceb07c0800000000000000
+      internalID: -4103926863689920818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01b54239fc255920800000000000000
+      internalID: 2978336177377358092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be3772f9ad7e8040800000000000000
+      internalID: 4651793633991147188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801743c03678f7eb0800000000000000
+      internalID: -4719905024984715000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a5526c272a15bb0800000000000000
+      internalID: -4948995901669156232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da26048d9f834ee20800000000000000
+      internalID: 3378888266160825005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4264d65ed96a76d90800000000000000
+      internalID: -7104526690064447964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d3cbb15eb1a6790800000000000000
+      internalID: -7536180355624321768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e062104075e7210800000000000000
+      internalID: 1332598214459002511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfffc7685ea83bba0800000000000000
+      internalID: -6074358753984184323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ebfd8451b6d8360800000000000000
+      internalID: 7173507520632176144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f0a940cfbc52dd0800000000000000
+      internalID: -2511376933919781055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c145f0c9ca2c07a0800000000000000
+      internalID: -6409701123640966714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d6cfa3fd723f050800000000000000
+      internalID: 5833049782095736139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0ccd75e1a53df50800000000000000
+      internalID: 6904961740058706170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82752f8b02c1c98d0800000000000000
+      internalID: -2838362738282834136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8da4123da29edee0800000000000000
+      internalID: -1234387975285723763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74404b57b20d7e590800000000000000
+      internalID: -7644912957361224633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_25
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da9b7511fa5b81c0800000000000000
+      internalID: -4500403411132638508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5b89b01ca9440e0800000000000000
+      internalID: -2286532556883446355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422d17c4bb3d17e70800000000000000
+      internalID: 9111296322542096932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2797bb086013dc290800000000000000
+      internalID: -7868579069947053710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0290deb2abf6da790800000000000000
+      internalID: -7517229357619934944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62725172e21e3dbf0800000000000000
+      internalID: -300649161763248346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73eb5f8f4738d8210800000000000000
+      internalID: 1336869202815204919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8112f8ed33bbf0ea0800000000000000
+      internalID: -5904294755007782632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b74021dcc26ffb60800000000000000
+      internalID: 7782047312940910515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_34
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10bd662196449ed70800000000000000
+      internalID: 9072858142385560321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_35
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477b99cd4990a4dd0800000000000000
+      internalID: -2501176108090017932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450c5a247932d9280800000000000000
+      internalID: -9035026144870154156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d301434787be900800000000000000
+      internalID: 714797406353374549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33ec04b7d18c35f0800000000000000
+      internalID: -775602272375872709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfb33faa51c6fb70800000000000000
+      internalID: 8932539506166579155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7e0a12377d786f0800000000000000
+      internalID: -682339929037936663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0abee00993cd0b30800000000000000
+      internalID: 4255272284848044558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb37ffc73dc05ff0800000000000000
+      internalID: -49313956305093665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960971a5bfb73f530800000000000000
+      internalID: 3887587222829371497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a216c2573055480800000000000000
+      internalID: -8911212485892036093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_45
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b8f56d0327e974bbd6e2166ed36a84
+      internalID: -1014661353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed32f2609f7af9469063dc809819d59
+      internalID: 744001790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_47
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072a61f83e49e094db89170c556d75d6
+      internalID: 853624023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be16069c66698d41b8f8aa9c5cc4e0a
+      internalID: 1393508776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_49
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe908a94ef0e7a14a847353308d0048c
+      internalID: -459168489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78dd4388e9ee3e74987426def7e57c5b
+      internalID: -41519081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_51
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adef8f2bc24888842a2602b9192bf8a8
+      internalID: -668422107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba45d6d2831b394586a50b21e552936
+      internalID: -864102258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1497a0fb78658b45a68a3f8a1c38c33
+      internalID: 40554198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_54
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112ed53b3b477684cb7491d277831170
+      internalID: -118776363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4286124ab70bc9c4d865c0f8db5e8877
+      internalID: 583139499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_56
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ab024c66e12e04e81eb7cd4f91759e
+      internalID: -104250092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_57
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d5dbdebb3e23546bc7a22b37d90dc3
+      internalID: -540350380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae80cde4cf1f6f249af1cff5b977e8dd
+      internalID: -626270856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_59
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa2d409d89aea7418d4e1c6b3c00acc
+      internalID: -1483706782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_60
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1d6a872e1f9db4eb2ed00a3e4869e8
+      internalID: -1779050779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_61
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb14a9998e1689649b012c13f7bcb6c5
+      internalID: 464002705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d124229f5e1ec14abf1fcabc2f322df
+      internalID: -1070660765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_63
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98523a5645c7300438b676e10426fe35
+      internalID: 183424662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218568608f943f0489f481338adfe2ee
+      internalID: 1231640418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_65
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceec1c757f635b44b99534c58364e77e
+      internalID: -1430838596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_66
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4ed6f4901347f40955fcbad97dd9d6
+      internalID: 1790277508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_67
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4693327fa44d2d43bda3ad90bdbb03d
+      internalID: -849525847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f278d4f74775b4885de56ff02bdad6
+      internalID: 454572417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_69
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd1cb378b80da84da79d2349790390f
+      internalID: 288477095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-GrimRock-Decor-part2-and-Animations_70
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f079149e98e23b3469bcd67fb13443eb
+      internalID: -2122977825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ce309218bc4dfe44cb7fda48d209f439
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Tiles-GrimRock-Decor-part2-and-Animations_0: -7930412626370165320
+      Tiles-GrimRock-Decor-part2-and-Animations_1: -9018080506114305363
+      Tiles-GrimRock-Decor-part2-and-Animations_10: -4719905024984715000
+      Tiles-GrimRock-Decor-part2-and-Animations_11: -4948995901669156232
+      Tiles-GrimRock-Decor-part2-and-Animations_12: 3378888266160825005
+      Tiles-GrimRock-Decor-part2-and-Animations_13: -7104526690064447964
+      Tiles-GrimRock-Decor-part2-and-Animations_14: -7536180355624321768
+      Tiles-GrimRock-Decor-part2-and-Animations_15: 1332598214459002511
+      Tiles-GrimRock-Decor-part2-and-Animations_16: -6074358753984184323
+      Tiles-GrimRock-Decor-part2-and-Animations_17: 7173507520632176144
+      Tiles-GrimRock-Decor-part2-and-Animations_18: -2511376933919781055
+      Tiles-GrimRock-Decor-part2-and-Animations_19: -6409701123640966714
+      Tiles-GrimRock-Decor-part2-and-Animations_2: -3169708252266484662
+      Tiles-GrimRock-Decor-part2-and-Animations_20: 5833049782095736139
+      Tiles-GrimRock-Decor-part2-and-Animations_21: 6904961740058706170
+      Tiles-GrimRock-Decor-part2-and-Animations_22: -2838362738282834136
+      Tiles-GrimRock-Decor-part2-and-Animations_23: -1234387975285723763
+      Tiles-GrimRock-Decor-part2-and-Animations_24: -7644912957361224633
+      Tiles-GrimRock-Decor-part2-and-Animations_25: -4500403411132638508
+      Tiles-GrimRock-Decor-part2-and-Animations_26: -2286532556883446355
+      Tiles-GrimRock-Decor-part2-and-Animations_27: 9111296322542096932
+      Tiles-GrimRock-Decor-part2-and-Animations_28: -7868579069947053710
+      Tiles-GrimRock-Decor-part2-and-Animations_29: -7517229357619934944
+      Tiles-GrimRock-Decor-part2-and-Animations_3: 7414905456093091492
+      Tiles-GrimRock-Decor-part2-and-Animations_30: -300649161763248346
+      Tiles-GrimRock-Decor-part2-and-Animations_31: 1336869202815204919
+      Tiles-GrimRock-Decor-part2-and-Animations_32: -5904294755007782632
+      Tiles-GrimRock-Decor-part2-and-Animations_33: 7782047312940910515
+      Tiles-GrimRock-Decor-part2-and-Animations_34: 9072858142385560321
+      Tiles-GrimRock-Decor-part2-and-Animations_35: -2501176108090017932
+      Tiles-GrimRock-Decor-part2-and-Animations_36: -9035026144870154156
+      Tiles-GrimRock-Decor-part2-and-Animations_37: 714797406353374549
+      Tiles-GrimRock-Decor-part2-and-Animations_38: -775602272375872709
+      Tiles-GrimRock-Decor-part2-and-Animations_39: 8932539506166579155
+      Tiles-GrimRock-Decor-part2-and-Animations_4: -888819605694503864
+      Tiles-GrimRock-Decor-part2-and-Animations_40: -682339929037936663
+      Tiles-GrimRock-Decor-part2-and-Animations_41: 4255272284848044558
+      Tiles-GrimRock-Decor-part2-and-Animations_42: -49313956305093665
+      Tiles-GrimRock-Decor-part2-and-Animations_43: 3887587222829371497
+      Tiles-GrimRock-Decor-part2-and-Animations_44: -8911212485892036093
+      Tiles-GrimRock-Decor-part2-and-Animations_45: -1014661353
+      Tiles-GrimRock-Decor-part2-and-Animations_46: 744001790
+      Tiles-GrimRock-Decor-part2-and-Animations_47: 853624023
+      Tiles-GrimRock-Decor-part2-and-Animations_48: 1393508776
+      Tiles-GrimRock-Decor-part2-and-Animations_49: -459168489
+      Tiles-GrimRock-Decor-part2-and-Animations_5: -8210678188913906231
+      Tiles-GrimRock-Decor-part2-and-Animations_50: -41519081
+      Tiles-GrimRock-Decor-part2-and-Animations_51: -668422107
+      Tiles-GrimRock-Decor-part2-and-Animations_52: -864102258
+      Tiles-GrimRock-Decor-part2-and-Animations_53: 40554198
+      Tiles-GrimRock-Decor-part2-and-Animations_54: -118776363
+      Tiles-GrimRock-Decor-part2-and-Animations_55: 583139499
+      Tiles-GrimRock-Decor-part2-and-Animations_56: -104250092
+      Tiles-GrimRock-Decor-part2-and-Animations_57: -540350380
+      Tiles-GrimRock-Decor-part2-and-Animations_58: -626270856
+      Tiles-GrimRock-Decor-part2-and-Animations_59: -1483706782
+      Tiles-GrimRock-Decor-part2-and-Animations_6: 7022946474512227963
+      Tiles-GrimRock-Decor-part2-and-Animations_60: -1779050779
+      Tiles-GrimRock-Decor-part2-and-Animations_61: 464002705
+      Tiles-GrimRock-Decor-part2-and-Animations_62: -1070660765
+      Tiles-GrimRock-Decor-part2-and-Animations_63: 183424662
+      Tiles-GrimRock-Decor-part2-and-Animations_64: 1231640418
+      Tiles-GrimRock-Decor-part2-and-Animations_65: -1430838596
+      Tiles-GrimRock-Decor-part2-and-Animations_66: 1790277508
+      Tiles-GrimRock-Decor-part2-and-Animations_67: -849525847
+      Tiles-GrimRock-Decor-part2-and-Animations_68: 454572417
+      Tiles-GrimRock-Decor-part2-and-Animations_69: 288477095
+      Tiles-GrimRock-Decor-part2-and-Animations_7: -4103926863689920818
+      Tiles-GrimRock-Decor-part2-and-Animations_70: -2122977825
+      Tiles-GrimRock-Decor-part2-and-Animations_8: 2978336177377358092
+      Tiles-GrimRock-Decor-part2-and-Animations_9: 4651793633991147188
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

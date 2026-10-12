@@ -1,0 +1,190 @@
+{
+    "method": "Unity Play Mode controlled component tests; no scene or game script saved",
+    "rows": [
+        {
+            "id": "TC-01",
+            "status": "FAIL",
+            "result": "Direction or facing incorrect"
+        },
+        {
+            "id": "TC-02",
+            "status": "FAIL",
+            "result": "Sprint speed, stamina or sound incorrect"
+        },
+        {
+            "id": "TC-03",
+            "status": "PASS",
+            "result": "first jump velocity=14; immediate airborne jump did not add impulse"
+        },
+        {
+            "id": "TC-04",
+            "status": "PASS",
+            "result": "climb up=4 down=-4; jump detached and restored gravity"
+        },
+        {
+            "id": "TC-05",
+            "status": "FAIL",
+            "result": "Battery did not drain"
+        },
+        {
+            "id": "TC-FSM-P01",
+            "status": "PASS",
+            "result": "ToggleHide => Hidden, movement locked"
+        },
+        {
+            "id": "TC-FSM-P02",
+            "status": "PASS",
+            "result": "ToggleHide => Normal, controls available"
+        },
+        {
+            "id": "TC-FSM-P03",
+            "status": "PASS",
+            "result": "HP 100 -> 90; entered Hurt; recovery checked after coroutine"
+        },
+        {
+            "id": "TC-FSM-P03-RECOVERY",
+            "status": "PASS",
+            "result": "state after 2.2 sec=Normal"
+        },
+        {
+            "id": "TC-FSM-P04",
+            "status": "PASS",
+            "result": "Frozen; two X presses => Normal"
+        },
+        {
+            "id": "TC-FSM-P05",
+            "status": "PASS",
+            "result": "UsingItem locks movement; closing restores Normal"
+        },
+        {
+            "id": "TC-FSM-P06",
+            "status": "PASS",
+            "result": "Transitioning blocks gameplay input"
+        },
+        {
+            "id": "TC-FSM-E01",
+            "status": "PASS",
+            "result": "HearNoise Rock => Listening"
+        },
+        {
+            "id": "TC-FSM-E02",
+            "status": "PASS",
+            "result": "Listening timer ended => InvestigateSound; horizontal movement nonzero"
+        },
+        {
+            "id": "TC-FSM-E03",
+            "status": "PASS",
+            "result": "Reached noise location => ConfirmSound"
+        },
+        {
+            "id": "TC-FSM-E04",
+            "status": "FAIL",
+            "result": "Sight detection failed"
+        },
+        {
+            "id": "TC-FSM-E05",
+            "status": "PASS",
+            "result": "Chase => Attack; HP 100 -> 65; AttackRecover"
+        },
+        {
+            "id": "TC-FSM-E06",
+            "status": "PASS",
+            "result": "AttackRecover held before timer; timer ended => Chase"
+        },
+        {
+            "id": "TC-FSM-E07",
+            "status": "PASS",
+            "result": "Lost target => Investigate; investigation timer ended => Search"
+        },
+        {
+            "id": "TC-FSM-E08",
+            "status": "PASS",
+            "result": "Search timeout => ReturnToPatrol"
+        },
+        {
+            "id": "TC-FSM-E09",
+            "status": "PASS",
+            "result": "Repeated Rock three times; ConfirmSound => Confused"
+        },
+        {
+            "id": "TC-FSM-E10",
+            "status": "PASS",
+            "result": "TriggerScream => Scream; player control locked by stun"
+        },
+        {
+            "id": "AN-P01",
+            "status": "PASS",
+            "result": "Idle -> Walk -> Idle with isWalking false/true/false"
+        },
+        {
+            "id": "AN-K01",
+            "status": "PASS",
+            "result": "isWalking true => Walk; isRunning true => Run"
+        },
+        {
+            "id": "AN-K02",
+            "status": "PASS",
+            "result": "attack1 => Attack1; exited to Idle after clip"
+        },
+        {
+            "id": "AN-K03",
+            "status": "PASS",
+            "result": "scream from Idle/Walk/Run/Attack1 => Scream => Idle"
+        },
+        {
+            "id": "AN-K04",
+            "status": "PASS",
+            "result": "Run with both bools true; isRunning false => Walk"
+        },
+        {
+            "id": "TC-06",
+            "status": "PASS",
+            "result": "Collect => key count 0 -> 1; inventory updated"
+        },
+        {
+            "id": "TC-07",
+            "status": "PASS",
+            "result": "Locked - find 4 more key(s)"
+        },
+        {
+            "id": "TC-09",
+            "status": "PASS",
+            "result": "Unlock cancelled and progress reset on release, distance, damage and nearby Killer"
+        },
+        {
+            "id": "TC-08",
+            "status": "PASS",
+            "result": "E held; door=Completed game=LevelComplete"
+        },
+        {
+            "id": "TC-FSM-P06-DOOR",
+            "status": "PASS",
+            "result": "After door completed player=Transitioning"
+        },
+        {
+            "id": "TC-10",
+            "status": "FAIL",
+            "result": "Silent clip"
+        },
+        {
+            "id": "TC-11",
+            "status": "PASS",
+            "result": "Five randomized placements; positions changed; raycasts found Ground below keys"
+        },
+        {
+            "id": "TC-12",
+            "status": "PASS",
+            "result": "far intensity=0 near=0.9285714; vignette alpha=0.08357143; heartbeat samples nonzero; interval formula 1.35 -> 0.46 sec"
+        },
+        {
+            "id": "TC-FSM-P07",
+            "status": "PASS",
+            "result": "Damage depleted HP => Dead player and Dead game state"
+        },
+        {
+            "id": "TC-13",
+            "status": "PASS",
+            "result": "Final level NotifyLevelCompleted + ContinueToNextLevel => GameWon"
+        }
+    ]
+}

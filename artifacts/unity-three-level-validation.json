@@ -1,0 +1,34 @@
+{
+    "levels": [
+        {
+            "scene": "Level1",
+            "players": 1,
+            "killers": 2,
+            "keys": 5,
+            "exits": 1,
+            "missingScripts": 0,
+            "loaded": true,
+            "errors": []
+        },
+        {
+            "scene": "Level2",
+            "players": 1,
+            "killers": 2,
+            "keys": 5,
+            "exits": 1,
+            "missingScripts": 0,
+            "loaded": true,
+            "errors": []
+        },
+        {
+            "scene": "Level3",
+            "players": 1,
+            "killers": 2,
+            "keys": 5,
+            "exits": 1,
+            "missingScripts": 0,
+            "loaded": true,
+            "errors": []
+        }
+    ]
+}

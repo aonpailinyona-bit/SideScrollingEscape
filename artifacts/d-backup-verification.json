@@ -1,0 +1,13 @@
+{
+  "source": "D:/SideScrollingEscape",
+  "backup": "C:\\Users\\aonpa\\OneDrive\\Desktop\\SideScrollingEscape\\artifacts\\preserved-from-D",
+  "files": 18271,
+  "bytes": 34018438,
+  "excludedRegenerableFolders": [
+    "Library",
+    "Temp",
+    "obj",
+    ".vs"
+  ],
+  "failures": []
+}

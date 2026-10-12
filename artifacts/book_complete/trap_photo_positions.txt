@@ -1,0 +1,6 @@
+Level3_NoiseTrap_5 (13.00, 0.30, 0.00)
+Level3_NoiseTrap_3 (50.00, 0.30, 0.00)
+Level3_NoiseTrap_2 (58.00, 45.30, 0.00)
+Level3_NoiseTrap_4 (74.00, 45.30, 0.00)
+Level3_NoiseTrap_1 (83.00, 0.30, 0.00)
+Selected (58.00, 45.30, 0.00)

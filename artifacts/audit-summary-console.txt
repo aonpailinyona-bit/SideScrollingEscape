@@ -1,0 +1,101 @@
+{
+  "results": {
+    "MainMenu": {
+      "reachableAssets": 11,
+      "missing": {},
+      "scripts": [
+        "LevelAudioController.cs",
+        "MainMenuController.cs",
+        "GameManager.cs",
+        "LevelConfig.cs"
+      ],
+      "keys": 0,
+      "players": 0,
+      "exits": 0
+    },
+    "Level1": {
+      "reachableAssets": 126,
+      "missing": {},
+      "scripts": [
+        "KillerAI.cs",
+        "ItemPickup.cs",
+        "ItemData.cs",
+        "ExitDoor.cs",
+        "DoorTransition.cs",
+        "PlayerController.cs",
+        "PlayerHealth.cs",
+        "FlashlightController.cs",
+        "HidingSystem.cs",
+        "FootstepSystem.cs",
+        "HealingPickup.cs",
+        "HidingSpotInteractable.cs",
+        "LevelAudioController.cs",
+        "InventoryManager.cs",
+        "InventorySlotUI.cs",
+        "UIManager.cs",
+        "InventoryUI.cs"
+      ],
+      "keys": 5,
+      "players": 1,
+      "exits": 1
+    },
+    "Level2": {
+      "reachableAssets": 331,
+      "missing": {},
+      "scripts": [
+        "ItemPickup.cs",
+        "ItemData.cs",
+        "HidingSpotInteractable.cs",
+        "DoorTransition.cs",
+        "KillerAI.cs",
+        "HealingPickup.cs",
+        "CurseStatue.cs",
+        "LevelAudioController.cs",
+        "InventoryManager.cs",
+        "ExitDoor.cs",
+        "InventorySlotUI.cs",
+        "UIManager.cs",
+        "InventoryUI.cs",
+        "LightFlicker.cs",
+        "PlayerController.cs",
+        "PlayerHealth.cs",
+        "FlashlightController.cs",
+        "HidingSystem.cs",
+        "FootstepSystem.cs"
+      ],
+      "keys": 5,
+      "players": 1,
+      "exits": 1
+    },
+    "Level3": {
+      "reachableAssets": 585,
+      "missing": {},
+      "scripts": [
+        "DoorTransition.cs",
+        "HidingSpotInteractable.cs",
+        "ItemPickup.cs",
+        "ItemData.cs",
+        "InventorySlotUI.cs",
+        "UIManager.cs",
+        "InventoryUI.cs",
+        "LevelAudioController.cs",
+        "InventoryManager.cs",
+        "Level3NoiseTrap.cs",
+        "HealingPickup.cs",
+        "KillerAI.cs",
+        "ExitDoor.cs",
+        "PlayerController.cs",
+        "PlayerHealth.cs",
+        "FlashlightController.cs",
+        "HidingSystem.cs",
+        "FootstepSystem.cs"
+      ],
+      "keys": 5,
+      "players": 1,
+      "exits": 1
+    }
+  },
+  "totalUnresolvedGuids": 10,
+  "duplicates": [],
+  "errors": []
+}

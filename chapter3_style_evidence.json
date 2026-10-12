@@ -1,0 +1,170 @@
+{
+  "input": "D:\\\u0e07\u0e32\u0e19\\project.docx",
+  "fonts_by_char_count": {
+    "TH SarabunPSK": 55313
+  },
+  "direct_run_formatting_runs": 2578,
+  "direct_paragraph_formatting_paragraphs": 413,
+  "heading_like_paragraphs_not_heading_style": [
+    {
+      "para_index": 5,
+      "text": "\u0e0a\u0e37\u0e48\u0e2d\u0e1c\u0e39\u0e49\u0e08\u0e31\u0e14\u0e17\u0e33",
+      "style": "Normal"
+    },
+    {
+      "para_index": 21,
+      "text": "\u0e0a\u0e37\u0e48\u0e2d\u0e1c\u0e39\u0e49\u0e08\u0e31\u0e14\u0e17\u0e33",
+      "style": "Normal"
+    },
+    {
+      "para_index": 39,
+      "text": "\u0e0a\u0e37\u0e48\u0e2d\u0e19\u0e31\u0e01\u0e28\u0e36\u0e01\u0e29\u0e32                                        \u0e19\u0e32\u0e22\u0e08\u0e34\u0e23\u0e32\u0e22\u0e38 \u0e2a\u0e07\u0e1a\u0e27\u0e32\u0e08\u0e32",
+      "style": "Normal"
+    },
+    {
+      "para_index": 42,
+      "text": "\u0e2d\u0e32\u0e08\u0e32\u0e23\u0e22\u0e4c\u0e17\u0e35\u0e48\u0e1b\u0e23\u0e36\u0e01\u0e29\u0e32                                  \u0e2d\u0e32\u0e08\u0e32\u0e23\u0e22\u0e4c\u0e18\u0e19\u0e27\u0e31\u0e12\u0e19\u0e4c \u0e16\u0e32\u0e27\u0e23\u0e01\u0e39\u0e25",
+      "style": "Normal"
+    },
+    {
+      "para_index": 44,
+      "text": "\u0e23\u0e30\u0e14\u0e31\u0e1a\u0e01\u0e32\u0e23\u0e28\u0e36\u0e01\u0e29\u0e32                                    \u0e1b\u0e23\u0e34\u0e0d\u0e0d\u0e32\u0e15\u0e23\u0e35",
+      "style": "Normal"
+    },
+    {
+      "para_index": 45,
+      "text": "\u0e2a\u0e32\u0e02\u0e32\u0e27\u0e34\u0e0a\u0e32                                           \u0e27\u0e34\u0e17\u0e22\u0e32\u0e01\u0e32\u0e23\u0e04\u0e2d\u0e21\u0e1e\u0e34\u0e27\u0e40\u0e15\u0e2d\u0e23\u0e4c",
+      "style": "Normal"
+    },
+    {
+      "para_index": 46,
+      "text": "\u0e1b\u0e35\u0e01\u0e32\u0e23\u0e28\u0e36\u0e01\u0e29\u0e32                                         2569",
+      "style": "Normal"
+    },
+    {
+      "para_index": 47,
+      "text": "\u0e1a\u0e17\u0e04\u0e31\u0e14\u0e22\u0e48\u0e2d",
+      "style": "Normal"
+    },
+    {
+      "para_index": 65,
+      "text": "\u0e01\u0e34\u0e15\u0e15\u0e34\u0e01\u0e23\u0e23\u0e21\u0e1b\u0e23\u0e30\u0e01\u0e32\u0e28",
+      "style": "Normal"
+    },
+    {
+      "para_index": 82,
+      "text": "\u0e1a\u0e17\u0e17\u0e35\u0e48 1",
+      "style": "Normal"
+    },
+    {
+      "para_index": 83,
+      "text": "\u0e1a\u0e17\u0e19\u0e33",
+      "style": "Normal"
+    },
+    {
+      "para_index": 84,
+      "text": "1.1 \u0e04\u0e27\u0e32\u0e21\u0e40\u0e1b\u0e47\u0e19\u0e21\u0e32\u0e41\u0e25\u0e30\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e33\u0e04\u0e31\u0e0d\u0e02\u0e2d\u0e07\u0e1b\u0e31\u0e0d\u0e2b\u0e32",
+      "style": "Normal"
+    },
+    {
+      "para_index": 88,
+      "text": "1.2 \u0e27\u0e31\u0e15\u0e16\u0e38\u0e1b\u0e23\u0e30\u0e2a\u0e07\u0e04\u0e4c\u0e02\u0e2d\u0e07\u0e42\u0e04\u0e23\u0e07\u0e07\u0e32\u0e19",
+      "style": "Normal"
+    },
+    {
+      "para_index": 94,
+      "text": "1.3 \u0e02\u0e2d\u0e1a\u0e40\u0e02\u0e15\u0e02\u0e2d\u0e07\u0e42\u0e04\u0e23\u0e07\u0e07\u0e32\u0e19",
+      "style": "Normal"
+    },
+    {
+      "para_index": 95,
+      "text": "\t1.3.1 \u0e2a\u0e48\u0e27\u0e19\u0e1e\u0e31\u0e12\u0e19\u0e32\u0e23\u0e30\u0e1a\u0e1a\u0e04\u0e27\u0e1a\u0e04\u0e38\u0e21\u0e15\u0e31\u0e27\u0e25\u0e30\u0e04\u0e23 (Player Controller System)",
+      "style": "Normal"
+    },
+    {
+      "para_index": 117,
+      "text": "\t1.3.4 \u0e2a\u0e48\u0e27\u0e19\u0e2d\u0e2d\u0e01\u0e41\u0e1a\u0e1a\u0e2a\u0e48\u0e27\u0e19\u0e15\u0e34\u0e14\u0e15\u0e48\u0e2d\u0e1c\u0e39\u0e49\u0e43\u0e0a\u0e49\u0e07\u0e32\u0e19 (UI/UX) ",
+      "style": "Normal"
+    },
+    {
+      "para_index": 134,
+      "text": "1.4 \u0e40\u0e04\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e21\u0e37\u0e2d\u0e17\u0e35\u0e48\u0e40\u0e01\u0e35\u0e48\u0e22\u0e27\u0e02\u0e49\u0e2d\u0e07\u0e01\u0e31\u0e1a\u0e42\u0e04\u0e23\u0e07\u0e07\u0e32\u0e19",
+      "style": "Normal"
+    },
+    {
+      "para_index": 139,
+      "text": "1.5 \u0e15\u0e32\u0e23\u0e32\u0e07\u0e01\u0e32\u0e23\u0e14\u0e33\u0e40\u0e19\u0e34\u0e19\u0e42\u0e04\u0e23\u0e07\u0e07\u0e32\u0e19",
+      "style": "Normal"
+    },
+    {
+      "para_index": 143,
+      "text": "\u0e1b\u0e23\u0e30\u0e42\u0e22\u0e0a\u0e19\u0e4c\u0e17\u0e35\u0e48\u0e04\u0e32\u0e14\u0e27\u0e48\u0e32\u0e08\u0e30\u0e44\u0e14\u0e49\u0e23\u0e31\u0e1a",
+      "style": "List Paragraph"
+    },
+    {
+      "para_index": 149,
+      "text": "\u0e1a\u0e17\u0e17\u0e35\u0e48 2",
+      "style": "Normal"
+    }
+  ],
+  "examples": {
+    "direct_run_formatting": [
+      {
+        "para_index": 2,
+        "run_text": "\u0e01\u0e32\u0e23\u0e1e\u0e31\u0e12\u0e19\u0e32",
+        "style": "Normal"
+      },
+      {
+        "para_index": 2,
+        "run_text": "\u0e40\u0e01\u0e21",
+        "style": "Normal"
+      },
+      {
+        "para_index": 2,
+        "run_text": "\u0e42\u0e14\u0e22\u0e1b\u0e23\u0e30\u0e22\u0e38\u0e01\u0e15\u0e4c\u0e43\u0e0a\u0e49\u0e40\u0e17\u0e04\u0e19\u0e34\u0e04 ",
+        "style": "Normal"
+      },
+      {
+        "para_index": 2,
+        "run_text": "Finite State Machine ",
+        "style": "Normal"
+      },
+      {
+        "para_index": 2,
+        "run_text": "\u0e43\u0e19\u0e01\u0e32\u0e23\u0e04\u0e27\u0e1a\u0e04\u0e38\u0e21\u0e15\u0e31\u0e27\u0e25\u0e30\u0e04\u0e23\u0e41\u0e25\u0e30\u0e1b\u0e31\u0e0d\u0e0d\u0e32\u0e1b\u0e23\u0e30\u0e14\u0e34\u0e29\u0e10\u0e4c",
+        "style": "Normal"
+      }
+    ],
+    "direct_paragraph_formatting": [
+      {
+        "para_index": 34,
+        "text": "\u0e2b\u0e31\u0e27\u0e02\u0e49\u0e2d\u0e42\u0e04\u0e23\u0e07\u0e07\u0e32\u0e19\u0e27\u0e34\u0e08\u0e31\u0e22                               \u0e01\u0e32\u0e23\u0e1e\u0e31\u0e12\u0e19\u0e32\u0e40\u0e01\u0e21\u0e42\u0e14\u0e22\u0e1b\u0e23\u0e30\u0e22\u0e38\u0e01\u0e15\u0e4c\u0e43\u0e0a\u0e49\u0e40\u0e17\u0e04\u0e19\u0e34\u0e04 \n                                      ",
+        "style": "Normal"
+      },
+      {
+        "para_index": 35,
+        "text": "                                                       \u0e1b\u0e31\u0e0d\u0e0d\u0e32\u0e1b\u0e23\u0e30\u0e14\u0e34\u0e29\u0e10\u0e4c",
+        "style": "Normal"
+      },
+      {
+        "para_index": 36,
+        "text": "                                                       Development of a Game using Finite State ",
+        "style": "Normal"
+      },
+      {
+        "para_index": 37,
+        "text": "                                                       Machine Techniques for Character Control and ",
+        "style": "Normal"
+      },
+      {
+        "para_index": 38,
+        "text": "                                                       Artificial Intelligence",
+        "style": "Normal"
+      }
+    ]
+  },
+  "notes": [
+    "Direct formatting is not always wrong, but it often causes inconsistent output when templates change.",
+    "Heading-like paragraphs not using Heading styles can break TOC and accessibility."
+  ]
+}

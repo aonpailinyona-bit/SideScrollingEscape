@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42ca5ad834b87b44a857eca044218850, type: 3}
+  m_Name: Level1Config
+  m_EditorClassIdentifier: Assembly-CSharp::SideScrollingEscape.Data.LevelConfig
+  levelName: 'Level 1: The Forsaken Cellar'
+  sceneName: Level1
+  difficultyLabel: Easy
+  requiredKeyCount: 5
+  playerMaxHealth: 100
+  playerMoveSpeed: 4.5
+  playerSprintSpeed: 5.7
+  flashlightMaxBattery: 80
+  flashlightDrainPerSecond: 0.8
+  killerPatrolSpeed: 2
+  killerChaseSpeed: 4
+  killerSightRange: 6
+  killerHearingRange: 4
+  killerAttackRange: 1.2
+  killerAttackDamage: 25
+  killerAttackCooldown: 1.8
+  killerSearchDuration: 3
